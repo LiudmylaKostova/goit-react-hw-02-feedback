@@ -1,0 +1,10 @@
+.button:not(:last-child) {
+  margin-right: 20px;
+  padding: 10px;
+  background-color: azure;
+  border: 2px solid green;
+}
+.button:hover,
+.button:focus {
+  background-color: aquamarine;
+}

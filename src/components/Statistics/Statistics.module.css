@@ -1,0 +1,11 @@
+.statistics {
+  width: 200px;
+  margin-top: 20px;
+  text-align: center;
+  border: 2px solid green;
+}
+
+.feedback {
+  color: green;
+  font-weight: 500;
+}
